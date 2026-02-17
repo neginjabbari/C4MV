@@ -8,7 +8,7 @@
   
   *[[https://doi.org/10.1016/j.eswa.2018.07.075](https://doi.org/10.1016/j.patcog.2026.113291)](https://doi.org/10.1016/j.patcog.2026.113291)*
 
-<p align=center><img src="C4MV.svg" width="50%" height="50%"></p>
+<p align=center><img src="C4MV.svg" width="70%" height="70%"></p>
 
   # Abstract
 
@@ -17,7 +17,7 @@ Multi-view representation learning (MRL) aims to exploit information from multip
 
 ## Citation
 
-If you use this repository or its implementations in your research, please cite **our paper**:
+If you use this repository or its implementation in your research, please cite **our paper**:
 
 ```bibtex
 @article{JABARI2026C4MV,
