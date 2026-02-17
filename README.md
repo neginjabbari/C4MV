@@ -8,7 +8,7 @@
   
   *[[https://doi.org/10.1016/j.eswa.2018.07.075](https://doi.org/10.1016/j.patcog.2026.113291)](https://doi.org/10.1016/j.patcog.2026.113291)*
 
-<p align=center><img src="C$MV.svg" width="50%" height="50%"></p>
+<p align=center><img src="C4MV.svg" width="50%" height="50%"></p>
 
   # Abstract
 
